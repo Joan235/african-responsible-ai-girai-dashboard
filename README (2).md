@@ -23,7 +23,6 @@ An interactive Power BI analysis of responsible AI readiness across African coun
 |---|---|
 | Event | DSN 2026 AI Bootcamp: Data Analytics In-House Hackathon |
 | Track | Data Analysis |
-| Team | Joyful Team |
 | Dataset | Global Index on Responsible AI (GIRAI) 2026 |
 | Scope | 135 countries worldwide, 39 African countries analysed |
 | Tool | Power BI (Power Query, data modelling, DAX) |
@@ -201,15 +200,16 @@ SWITCH(
 
 **Overview:** KPIs, map, country ranking, regional comparison, Africa against global.
 
-![Overview page](images/01_overview.png)
+![Overview page](<img width="1022" height="596" alt="Screenshot_20261117_235128" src="https://github.com/user-attachments/assets/b18142df-aeb0-470a-ae76-97e1b34a64b3" />)
 
 **Dimension:** dimension scores, dimension and pillar comparison, dimensions by subregion, strengths and gaps matrix.
 
-![Dimension page](images/02_dimension.png)
+![Dimension page](<img width="1022" height="586" alt="Screenshot_20261117_235319" src="https://github.com/user-attachments/assets/4a8d07f9-3c08-41da-90ac-6780c3f4a33b" />
+)
 
 **Governance:** policy against enabling conditions, enabling indicators, weakest policy indicators, score by income group.
 
-![Governance page](images/03_governance.png)
+![Governance page](<img width="1079" height="617" alt="Screenshot_20261117_235450" src="https://github.com/user-attachments/assets/b18a2e37-8b00-425f-af98-12fb72e95687" />)
 
 Filters: subregion, World Bank income group and country, with cross-filtering between visuals.
 
@@ -227,10 +227,11 @@ Africa's responsible AI readiness (21.8) sits well below the global average (35.
 
 **Limitations:** GIRAI scores reflect documented evidence, so a low score can reflect weak policy or limited documented evidence. The strong policy-to-score relationship is partly built into the index weighting, some groups (such as upper-middle-income) are small, and the analysis shows association, not cause.
 
+
 ## Tools and Files
 - Power BI Desktop (Power Query, data model, DAX)
 - Data: GIRAI 2026 rankings and scores workbook and data dictionary
 - Source: [Global Index on Responsible AI](https://www.global-index.ai)
 
 ## Author
-Joyful Team, DSN 2026 AI Bootcamp
+Joan Fafure, DSN 2026 AI Bootcamp
