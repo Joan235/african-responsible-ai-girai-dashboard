@@ -200,16 +200,15 @@ SWITCH(
 
 **Overview:** KPIs, map, country ranking, regional comparison, Africa against global.
 
-(<img width="1022" height="596" alt="Screenshot_20261117_235128" src="https://github.com/user-attachments/assets/b18142df-aeb0-470a-ae76-97e1b34a64b3" />)
+<img width="1022" height="596" alt="Screenshot_20261117_235128" src="https://github.com/user-attachments/assets/b18142df-aeb0-470a-ae76-97e1b34a64b3" />
 
 **Dimension:** dimension scores, dimension and pillar comparison, dimensions by subregion, strengths and gaps matrix.
 
-(<img width="1022" height="586" alt="Screenshot_20261117_235319" src="https://github.com/user-attachments/assets/4a8d07f9-3c08-41da-90ac-6780c3f4a33b" />
-)
+<img width="1022" height="586" alt="Screenshot_20261117_235319" src="https://github.com/user-attachments/assets/4a8d07f9-3c08-41da-90ac-6780c3f4a33b" />
 
 **Governance:** policy against enabling conditions, enabling indicators, weakest policy indicators, score by income group.
 
-(<img width="1079" height="617" alt="Screenshot_20261117_235450" src="https://github.com/user-attachments/assets/b18a2e37-8b00-425f-af98-12fb72e95687" />)
+<img width="1079" height="617" alt="Screenshot_20261117_235450" src="https://github.com/user-attachments/assets/b18a2e37-8b00-425f-af98-12fb72e95687" />
 
 Filters: subregion, World Bank income group and country, with cross-filtering between visuals.
 
